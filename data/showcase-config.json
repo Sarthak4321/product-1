@@ -1,0 +1,20 @@
+[
+  {
+    "id": "crm",
+    "imageUrl": "https://pub-08ec7f713c894dc281970f04cc93aba9.r2.dev/showcase/crm-1791231113741.png",
+    "title": "Admissions & Calling Desk.",
+    "createdAt": "2026-10-05T20:27:08.274Z"
+  },
+  {
+    "id": "attendance",
+    "imageUrl": "https://pub-08ec7f713c894dc281970f04cc93aba9.r2.dev/showcase/attendance-1791231658577.png",
+    "title": "Live Attendance & Shift Logs.",
+    "createdAt": "2026-10-05T20:27:08.274Z"
+  },
+  {
+    "id": "slide-1791232186841-0",
+    "imageUrl": "https://pub-08ec7f713c894dc281970f04cc93aba9.r2.dev/showcase/slide-1791232185816-0-1791232186832.png",
+    "title": "Floating Laptop HR Dashboard",
+    "createdAt": "2026-10-05T20:29:46.841Z"
+  }
+]

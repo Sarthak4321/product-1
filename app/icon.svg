@@ -1,0 +1,28 @@
+<svg viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Minimal Dark Squircle Base -->
+  <rect width="512" height="512" rx="128" fill="#0F172A" />
+
+  <!-- Bold 'L' Foundation Path -->
+  <path
+    d="M152 128V328C152 350.091 169.909 368 192 368H360"
+    stroke="#2563EB"
+    stroke-width="48"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Minimal Ascending Lead Arrow -->
+  <path
+    d="M272 152H376V256"
+    stroke="#38BDF8"
+    stroke-width="44"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M376 152L232 296"
+    stroke="#38BDF8"
+    stroke-width="44"
+    stroke-linecap="round"
+  />
+</svg>
